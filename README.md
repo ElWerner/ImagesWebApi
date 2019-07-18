@@ -8,5 +8,5 @@ WebJob listens the queue. When new message is addes WebJob should replace image 
 Use streams.
 Logs should be written to the Table Storage.
 
-Web Jobs: https://docs.microsoft.com/en-us/azure/app-service/webjobs-create
+Web Jobs: https://docs.microsoft.com/en-us/azure/app-service/webjobs-create  
 Logs to Table Storage: https://www.nuget.org/packages/AzureTableStorageNLogTarget/
